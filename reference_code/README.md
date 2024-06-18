@@ -3,9 +3,7 @@
 # OTA Required Setting
 
 ## Used cluster model
-    https://github.com/aveeslab/sea-me-hackathon-2023
-
-    ```git clone https://github.com/aveeslab/sea-me-hackathon-2023
+    git clone https://github.com/aveeslab/sea-me-hackathon-2023
    
 ## Used py
     - OTA_publisher.py
